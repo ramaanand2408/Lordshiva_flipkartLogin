@@ -1,0 +1,6 @@
+pageObjects\RegisterPage.class
+testCases\TC01_testsignin.class
+pageObjects\BasePage.class
+pageObjects\HomePage.class
+testCases\Baseclass.class
+pageObjects\AccountRegisterPage.class
